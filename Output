@@ -1,0 +1,62 @@
+WELCOME!!
+
+Menu:
+1. Find a number
+2. Modify a number
+3. Add a number
+4. Delete a number
+5. Quit
+
+Enter your choice: 1
+
+Enter the number you want to find: 22
+Number 22 found at index: 20
+
+Menu:
+1. Find a number
+2. Modify a number
+3. Add a number
+4. Delete a number
+5. Quit
+
+Enter your choice: 2
+
+Enter the index to modify: 20
+Enter the new value: 12
+Old value at index 20: 22
+New value at index 20: 12
+
+Menu:
+1. Find a number
+2. Modify a number
+3. Add a number
+4. Delete a number
+5. Quit
+
+Enter your choice: 3
+
+Enter the new value to add at the end: 1
+
+Menu:
+1. Find a number
+2. Modify a number
+3. Add a number
+4. Delete a number
+5. Quit
+
+Enter your choice: 4
+
+Enter the index to delete: 100
+Enter the new value to replace with (0 for removal): 0
+
+Menu:
+1. Find a number
+2. Modify a number
+3. Add a number
+4. Delete a number
+5. Quit
+
+Enter your choice: 5
+
+Quitting the program.
+
